@@ -26,9 +26,8 @@
 Огромные биомы земли поражены вирусной инфекцией или заполнены монстрами.
 Под монстрами подразумеваются люди, растения и животные пострадавшие от вируса. 
 На пригодных для жизни землях господствуют разбойники и корпорации.
-![arcanum](https://img.ixbt.site/live/images/original/20/38/18/2022/12/21/2a2b6e2002.jpg)
-![fallout](https://www.dsogaming.com/wp-content/uploads/2023/05/Fallout-2-Unreal-Engine-5-672x372.jpg)
-![Encased](https://cdn.akamai.steamstatic.com/steam/apps/921800/ss_99f7e3f9e4fbc1ead66e199c008cc20aa3e5be1b.1920x1080.jpg?t=1669389314)
+
+<img src="https://img.ixbt.site/live/images/original/20/38/18/2022/12/21/2a2b6e2002.jpg" width="33%"><img src="https://www.dsogaming.com/wp-content/uploads/2023/05/Fallout-2-Unreal-Engine-5-672x372.jpg" width="33%"><img src="https://cdn.akamai.steamstatic.com/steam/apps/921800/ss_99f7e3f9e4fbc1ead66e199c008cc20aa3e5be1b.1920x1080.jpg?t=1669389314" width="33%">
 
 ### Персонажи
 ----
@@ -108,8 +107,8 @@ Kaikatu  -модели персонажей, волосы, одежда, акс�
 Используя игровые механики игроку предстоит решать головоломки, увеличивать потенциал партии прокачкой и экипировкой, сражаться с врагами, изучать лор через диалоги и дизайн уровней, добывать ресурсы, создавать предметы, покупать и продавать их.
 Принимать и выполнять сюжетные и вспомогательные задания.
 Бой классический - пошаговый
-![](https://www.slashgear.com/img/gallery/final-fantasy-v-gameplay-makes-it-the-most-exciting-pixel-remaster-for-me-yet/intro-import.webp)
-![](https://mmogamesbase.com/wp-content/uploads/2020/10/raid-shadow-legends-10-1-1280x720.jpg)
+
+<img src="https://www.slashgear.com/img/gallery/final-fantasy-v-gameplay-makes-it-the-most-exciting-pixel-remaster-for-me-yet/intro-import.webp" width="50%"><img src="https://mmogamesbase.com/wp-content/uploads/2020/10/raid-shadow-legends-10-1-1280x720.jpg" width="50%">
 
 
 #### Старт 01
