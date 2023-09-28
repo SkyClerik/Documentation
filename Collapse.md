@@ -117,5 +117,5 @@
 
 (God of weapons как референс механик и стиля.)
 
-<img src="https://www.slashgear.com/img/gallery/final-fantasy-v-gameplay-makes-it-the-most-exciting-pixel-remaster-for-me-yet/intro-import.webp" width="50%"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2342950/ss_af967c2142f346ed8c09d65e3e4e5ed1504cb5a6.1920x1080.jpg?t=1694559728" width="50%">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2342950/ss_73ca7dd795231482e17b742a7c98edc6e6cdeee2.1920x1080.jpg?t=1694559728" width="50%"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2342950/ss_af967c2142f346ed8c09d65e3e4e5ed1504cb5a6.1920x1080.jpg?t=1694559728" width="50%">
 
