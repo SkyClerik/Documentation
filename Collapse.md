@@ -115,6 +115,6 @@
 Игрок управляет аватаром. Аватар умеет ходить в 8 направлениях. Оружие парит позле аватара. Атаки происходят автоматически. Игроку необходимо избегать касаний с противниками, а так же не попадать под атаки или ловушки.
 Игрок на поверхности заперт в городе. Там он отдыхает, экипируется и так далее. Затем отправляется в подземелье где мы создадим все условия что бы механика рогалика работала удачно. Будем ловить игрока в ловушки закрывая входы, руша мосты, заваливая проходы, закрывая двери, заливая лавой и т.д.
 
-God of weapons как референс механик и стиля.
+(God of weapons как референс механик и стиля.)
+<img src="https://www.slashgear.com/img/gallery/final-fantasy-v-gameplay-makes-it-the-most-exciting-pixel-remaster-for-me-yet/intro-import.webp" width="50%"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2342950/ss_af967c2142f346ed8c09d65e3e4e5ed1504cb5a6.1920x1080.jpg?t=1694559728" width="50%">
 
-<img src="https://www.slashgear.com/img/gallery/final-fantasy-v-gameplay-makes-it-the-most-exciting-pixel-remaster-for-me-yet/intro-import.webp" width="50%"><img src="[https://mmogamesbase.com/wp-content/uploads/2020/10/raid-shadow-legends-10-1-1280x720.jpg](https://cdn.cloudflare.steamstatic.com/steam/apps/2342950/ss_af967c2142f346ed8c09d65e3e4e5ed1504cb5a6.1920x1080.jpg?t=1694559728)" width="50%">
