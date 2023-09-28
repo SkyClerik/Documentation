@@ -2,7 +2,7 @@
 
 - Project Title: Collapse v.6
 - Game Title: none
-- Genre: Japanese Role-Playing Game  
+- Genre: ARPG с элементами Roguelite
 - Platform: PC, mobile
 - Engine: Unity3D  
 - Graphics type: 3D;  
