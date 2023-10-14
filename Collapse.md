@@ -91,7 +91,7 @@
 
 <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2342950/ss_73ca7dd795231482e17b742a7c98edc6e6cdeee2.1920x1080.jpg?t=1694559728" width="50%"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2342950/ss_af967c2142f346ed8c09d65e3e4e5ed1504cb5a6.1920x1080.jpg?t=1694559728" width="50%">
 
-<img src="https://drive.google.com/file/d/1e7Pns0UOooCy10oJneuQzE1XIJjPjLKv/view?usp=sharing" width="50%">
+<img src="https://drive.google.com/uc?export=download&id=1e7Pns0UOooCy10oJneuQzE1XIJjPjLKv" width="50%">
 
 ### Особенности
 ----
